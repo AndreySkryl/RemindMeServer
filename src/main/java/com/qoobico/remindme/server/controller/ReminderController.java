@@ -1,4 +1,4 @@
-package com.qoobico.remind.server.controller;
+package com.qoobico.remindme.server.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
